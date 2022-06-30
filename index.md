@@ -12,7 +12,7 @@ The facial recognition door lock uses the faces of saved people to open a door l
 # Final Milestone
 My second milestone is the combination of all my project pieces together. It includes the physical lock, arduino, and the raspberry pi. When the facial recognition code is run the code waits for an image.  When the “bell” is pressed a picture of the guest is taken and the lock uses facial recognition to compare them to people who are allowed to pass. If they match one of those people in the dynamo database then the lock unlocks and they are let through. If a new guest is at the door then the code states the arrival of a new guest and alerts me by sending an email. 
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://i3.ytimg.com/vi/gFGa062yHeE/maxresdefault.jpg)](https://www.youtube.com/watch?v=gFGa062yHeE)
 
 # First Milestone
 
