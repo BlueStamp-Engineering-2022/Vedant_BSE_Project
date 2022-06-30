@@ -1,5 +1,5 @@
 Facial Recognition Door Lock:
-The facial recognition door lock uses the faces of saved people to open a door lock. When the "bell" is rung it takes a picture and compares it to those who are allowed to come through. If the face matches a face in the data base then that person is let through the door. 
+The facial recognition door lock uses stored images of people's faces as a database to open a door lock. When the "bell" is rung, the raspberry pi takes a picture and stores the image into a bucket. The program automatically extracts a face from the newly added image and compares it with the faces stored in the dynamoDB collection. If a match is detected, the lock will open for five seconds to let the guest in. If no match is detected, the image is sent as an email to the user and the lock won't trigger.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
