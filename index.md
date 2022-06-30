@@ -1,5 +1,5 @@
 Facial Recognition Door Lock:
-The facial recognition door lock uses the faces of saved people to open a door lock. It can also greet guests, tell you who is at the door, save multiple guests, and more. 
+The facial recognition door lock uses the faces of saved people to open a door lock. When the "bell" is rung it takes a picture and compares it to those who are allowed to come through. If the face matches a face in the data base then that person is let through the door. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
