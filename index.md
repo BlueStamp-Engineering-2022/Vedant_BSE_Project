@@ -3,7 +3,7 @@ The facial recognition door lock uses stored images of people's faces as a datab
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Vedant Agarwal | Mountain View Highschool | Electrical Engineering | Incoming Sophomore
+| Vedant | Mountain View Highschool | Electrical Engineering | Incoming Sophomore
 
 ![Headstone Image](https://user-images.githubusercontent.com/66533979/174888201-acb4436d-4e3d-412d-8f3d-747ebf61c085.png)
 
